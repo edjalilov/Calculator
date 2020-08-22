@@ -79,6 +79,7 @@ body {
     outline: none;
     text-align: center;
     cursor: pointer;
+    padding: 0;
 }
 
 #zero-wrapper {
@@ -102,18 +103,21 @@ body {
     background-color: #3c3c3c;
     color: #efefef;
     font-size: 32px;
+    padding: 0;
 }
 
 .light-grey {
     background-color: #b0b0b0;
     color: black;
     font-size: 25px;
+    padding: 0;
 }
 
 .orange {
     background-color: #e9920f;
     color: #efefef;
     font-size: 40px;
+    padding: 0;
 }
 
 .awaiting-input {
